@@ -8,6 +8,6 @@ int count = number * (-1);
 
 while (count <= number)
 {
-    Console.Write(count + ",");
+   int number = int.Parse(Console.ReadLine());
     count ++;
 }
